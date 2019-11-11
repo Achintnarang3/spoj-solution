@@ -1,8 +1,9 @@
 #include <bits/stdc++.h>
 
-#define return R
-#define vector<char> vc
-#define long long int lli
+#define  R return
+#define  vc vector<char> 
+#define   lli long long int
+ 
 
 using namespace std;
 void solve()
