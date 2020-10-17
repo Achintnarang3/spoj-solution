@@ -38,7 +38,7 @@ int bs(int array[])
 int main()
 {
     int t;
-    scanf("%d",&t);
+    cin>>t;
     while (t--)
     {
         scanf("%d %d",&n,&c);
